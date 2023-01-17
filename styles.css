@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+header {
+        text-align: center;
+        font-size: 2em;
+        margin-top: 50px;
+      }
+      nav {
+        text-align: center;
+        margin-top: 20px;
+      }
+      nav a {
+        margin-right: 10px;
+        text-decoration: none;
+        color: black;
+      }
+      #summary {
+        margin: 20px;
+        font-style: italic;
+      }
+      #actor, #quote {
+        margin: 20px;
+      }
+      aside {
+        margin: 20px;
+        font-style: italic;
+      }
+      footer {
+        text-align: center;
+        margin-top: 50px;
+      }
